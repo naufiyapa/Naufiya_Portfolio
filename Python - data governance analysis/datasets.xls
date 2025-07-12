@@ -1,0 +1,18 @@
+dataset_name,Column_name,sample_name
+customers,customer_id,CUST1000
+customers,name,Allison Hill
+customers,email,jillrhodes@miller.com
+customers,dob,1960-05-08
+customers,country,Macedonia
+employees,employee_id,EMP200
+employees,name,Michael Valentine
+employees,role,data_engineer
+employees,dataset_name,customers
+employees,access_level,read
+reports,report_id,1
+reports,report_date,2025-07-05
+reports,total_revenue,24923.24
+transactions,transaction_id,TXN5000
+transactions,customer_id,CUST1081
+transactions,amount,64.55
+transactions,transaction_date,2023-11-04

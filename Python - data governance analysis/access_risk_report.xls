@@ -1,0 +1,61 @@
+employee_id,name,role,dataset_name,access_level,access_audit
+EMP200,Michael Valentine,data_engineer,customers,read,Warning -Limited access to sensitive data
+EMP201,Susan Davis DDS,data_engineer,customers,read,Warning -Limited access to sensitive data
+EMP202,Alicia Parker,data_engineer,transactions,read,Warning -Limited access to sensitive data
+EMP203,Gloria Miranda,compliance_officer,customers,read,Warning -Limited access to sensitive data
+EMP209,Lori Orr,intern,transactions,read,RISK - Unauthorized access to sensitive data
+EMP210,Amanda Diaz,analyst,transactions,read,RISK - Unauthorized access to sensitive data
+EMP211,Tracy Bishop,analyst,reports,read,RISK - Unauthorized access to sensitive data
+EMP212,Rachel Young,compliance_officer,transactions,read,Warning -Limited access to sensitive data
+EMP215,Jessica Hammond,intern,reports,read_write,RISK - Unauthorized access to sensitive data
+EMP216,Kathryn Barnes,compliance_officer,reports,read,Warning -Limited access to sensitive data
+EMP217,Curtis Jacobs,compliance_officer,transactions,read,Warning -Limited access to sensitive data
+EMP218,Amy Castillo,data_engineer,transactions,read,Warning -Limited access to sensitive data
+EMP219,Timothy Dawson,analyst,reports,read,RISK - Unauthorized access to sensitive data
+EMP223,Stacey Arias,analyst,customers,read_write,RISK - Unauthorized access to sensitive data
+EMP228,Kaitlyn Guerra,compliance_officer,customers,read,Warning -Limited access to sensitive data
+EMP229,Julie Gilbert,analyst,reports,read,RISK - Unauthorized access to sensitive data
+EMP231,Todd Lynch,compliance_officer,reports,read,Warning -Limited access to sensitive data
+EMP232,Ricardo Young,intern,customers,read,RISK - Unauthorized access to sensitive data
+EMP235,Mr. Mark Andrews DDS,analyst,transactions,read_write,RISK - Unauthorized access to sensitive data
+EMP236,Aaron Gomez,compliance_officer,reports,read,Warning -Limited access to sensitive data
+EMP237,Chelsea Barnett,data_engineer,customers,read,Warning -Limited access to sensitive data
+EMP238,Heather Ashley,intern,customers,read,RISK - Unauthorized access to sensitive data
+EMP241,James Burgess,intern,customers,read_write,RISK - Unauthorized access to sensitive data
+EMP244,Brandi Bell,data_engineer,customers,read,Warning -Limited access to sensitive data
+EMP245,Marvin Greer,intern,transactions,read_write,RISK - Unauthorized access to sensitive data
+EMP246,Veronica Mendoza,analyst,transactions,read_write,RISK - Unauthorized access to sensitive data
+EMP248,Amanda Harris,analyst,customers,read_write,RISK - Unauthorized access to sensitive data
+EMP250,James Ochoa,analyst,customers,read_write,RISK - Unauthorized access to sensitive data
+EMP252,Scott Williams,intern,reports,read,RISK - Unauthorized access to sensitive data
+EMP253,Denise Lloyd,intern,reports,read,RISK - Unauthorized access to sensitive data
+EMP255,Gina Lopez,analyst,reports,read,RISK - Unauthorized access to sensitive data
+EMP258,Zachary White,analyst,reports,read_write,RISK - Unauthorized access to sensitive data
+EMP261,Jeremy West,compliance_officer,customers,read,Warning -Limited access to sensitive data
+EMP262,Susan Mendez,intern,reports,read_write,RISK - Unauthorized access to sensitive data
+EMP264,Michael Sullivan,intern,reports,read,RISK - Unauthorized access to sensitive data
+EMP266,Samuel Gregory,intern,reports,read_write,RISK - Unauthorized access to sensitive data
+EMP267,Cameron Young,intern,transactions,read_write,RISK - Unauthorized access to sensitive data
+EMP269,Christian Cole,data_engineer,reports,read,Warning -Limited access to sensitive data
+EMP271,Jacob Edwards,analyst,customers,read_write,RISK - Unauthorized access to sensitive data
+EMP272,Tyler Johnson,data_engineer,customers,read,Warning -Limited access to sensitive data
+EMP273,Joseph Mcintyre,analyst,customers,read,RISK - Unauthorized access to sensitive data
+EMP274,Reginald Padilla,intern,reports,read,RISK - Unauthorized access to sensitive data
+EMP275,Logan Benson,intern,transactions,read,RISK - Unauthorized access to sensitive data
+EMP276,Mrs. Brandy Jones MD,intern,transactions,read_write,RISK - Unauthorized access to sensitive data
+EMP277,Yolanda Cochran,data_engineer,customers,read,Warning -Limited access to sensitive data
+EMP278,Victoria Contreras,analyst,transactions,read,RISK - Unauthorized access to sensitive data
+EMP280,Christopher Mckinney,analyst,reports,read,RISK - Unauthorized access to sensitive data
+EMP281,Carrie Ward,analyst,transactions,read,RISK - Unauthorized access to sensitive data
+EMP282,William Conner,intern,reports,read_write,RISK - Unauthorized access to sensitive data
+EMP283,Johnny Ward,intern,reports,read_write,RISK - Unauthorized access to sensitive data
+EMP284,Julie Bird,compliance_officer,transactions,read,Warning -Limited access to sensitive data
+EMP285,Stephen Jones,intern,transactions,read_write,RISK - Unauthorized access to sensitive data
+EMP287,Jason Andrews,compliance_officer,transactions,read,Warning -Limited access to sensitive data
+EMP291,Betty Shaw,data_engineer,customers,read,Warning -Limited access to sensitive data
+EMP292,Sandra Holmes,intern,reports,read,RISK - Unauthorized access to sensitive data
+EMP294,Travis Stone,intern,transactions,read_write,RISK - Unauthorized access to sensitive data
+EMP295,Blake Gonzalez,intern,customers,read,RISK - Unauthorized access to sensitive data
+EMP296,Denise Weber,intern,transactions,read,RISK - Unauthorized access to sensitive data
+EMP298,Lauren Jackson,analyst,transactions,read_write,RISK - Unauthorized access to sensitive data
+EMP299,Stephanie Morgan,intern,transactions,read,RISK - Unauthorized access to sensitive data

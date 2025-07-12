@@ -1,0 +1,5 @@
+dataset_name,data_classification,encrypted,eligible_for_cloud,migration_status,reason
+customers,PII,No,No,Blocked,Needs encryption
+transactions,Financial,Yes,Yes,Migrated,-
+reports,General,-,Yes,Migrated,-
+employees,PII,Yes,Yes,Migrated,-

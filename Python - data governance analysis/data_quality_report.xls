@@ -1,0 +1,5 @@
+dataset,total_rows,null_values,duplicate_rows,invalid_amounts,invalid_revenue
+customers,120,0,0,0,0
+transactions,150,0,0,0,0
+employees,100,0,0,0,0
+reports,110,0,0,0,0

@@ -1,0 +1,4 @@
+@echo off
+cd path\to\your\folder
+python data_governance_dashboard.py
+pause

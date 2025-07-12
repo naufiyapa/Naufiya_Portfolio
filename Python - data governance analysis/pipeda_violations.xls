@@ -1,0 +1,10 @@
+employee_id,name,role,dataset_name,access_level,pipeda_flag
+EMP223,Stacey Arias,analyst,customers,read_write,violation - Unauthorized PII Access
+EMP232,Ricardo Young,intern,customers,read,violation - Unauthorized PII Access
+EMP238,Heather Ashley,intern,customers,read,violation - Unauthorized PII Access
+EMP241,James Burgess,intern,customers,read_write,violation - Unauthorized PII Access
+EMP248,Amanda Harris,analyst,customers,read_write,violation - Unauthorized PII Access
+EMP250,James Ochoa,analyst,customers,read_write,violation - Unauthorized PII Access
+EMP271,Jacob Edwards,analyst,customers,read_write,violation - Unauthorized PII Access
+EMP273,Joseph Mcintyre,analyst,customers,read,violation - Unauthorized PII Access
+EMP295,Blake Gonzalez,intern,customers,read,violation - Unauthorized PII Access

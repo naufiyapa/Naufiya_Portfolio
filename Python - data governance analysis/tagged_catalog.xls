@@ -1,0 +1,18 @@
+dataset_name,Column_name,sample_name,data_classification
+customers,customer_id,CUST1000,identifier
+customers,name,Allison Hill,PII
+customers,email,jillrhodes@miller.com,PII
+customers,dob,1960-05-08,PII
+customers,country,Macedonia,General
+employees,employee_id,EMP200,identifier
+employees,name,Michael Valentine,PII
+employees,role,data_engineer,General
+employees,dataset_name,customers,PII
+employees,access_level,read,General
+reports,report_id,1,identifier
+reports,report_date,2025-07-05,General
+reports,total_revenue,24923.24,Financial
+transactions,transaction_id,TXN5000,identifier
+transactions,customer_id,CUST1081,identifier
+transactions,amount,64.55,Financial
+transactions,transaction_date,2023-11-04,General
